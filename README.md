@@ -1,4 +1,3 @@
 # RANDOM-USER-GEN
 VUE JS
-
-A SMALL PROJECT WITH VUE JS
+A small project with Vue Js
